@@ -1,0 +1,7 @@
+{
+  "name": "Christmas Particle Magic",
+  "description": "A real-time interactive 3D particle system controlled by hand gestures. Form a Christmas tree with your fist, explode it with an open hand, and pinch to grab memories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
